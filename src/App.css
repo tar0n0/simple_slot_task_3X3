@@ -1,0 +1,11 @@
+body {
+    background-color: black;
+}
+.win-blink {
+    animation: blink 0.4s linear infinite alternate;
+}
+
+@keyframes blink {
+    from { opacity: 1; transform: scale(1); }
+    to   { opacity: 0.2; transform: scale(1.2); }
+}

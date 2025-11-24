@@ -1,0 +1,83 @@
+
+coins.webp
+size: 755,104
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coins/Coin1
+  rotate: false
+  xy: 104, 3
+  size: 99, 99
+  orig: 100, 100
+  offset: 0, 1
+  index: -1
+coins/Coin10
+  rotate: false
+  xy: 299, 2
+  size: 89, 100
+  orig: 93, 100
+  offset: 2, 0
+  index: -1
+coins/Coin11
+  rotate: false
+  xy: 2, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+coins/Coin2
+  rotate: false
+  xy: 205, 2
+  size: 92, 100
+  orig: 96, 100
+  offset: 2, 0
+  index: -1
+coins/Coin3
+  rotate: false
+  xy: 390, 2
+  size: 72, 100
+  orig: 76, 100
+  offset: 2, 0
+  index: -1
+coins/Coin4
+  rotate: false
+  xy: 533, 2
+  size: 51, 100
+  orig: 54, 100
+  offset: 2, 0
+  index: -1
+coins/Coin5
+  rotate: false
+  xy: 636, 2
+  size: 39, 100
+  orig: 42, 100
+  offset: 1, 0
+  index: -1
+coins/Coin6
+  rotate: false
+  xy: 717, 2
+  size: 36, 100
+  orig: 41, 100
+  offset: 2, 0
+  index: -1
+coins/Coin7
+  rotate: false
+  xy: 677, 2
+  size: 38, 100
+  orig: 42, 100
+  offset: 2, 0
+  index: -1
+coins/Coin8
+  rotate: false
+  xy: 586, 2
+  size: 48, 100
+  orig: 52, 100
+  offset: 2, 0
+  index: -1
+coins/Coin9
+  rotate: false
+  xy: 464, 2
+  size: 67, 100
+  orig: 68, 100
+  offset: 1, 0
+  index: -1
